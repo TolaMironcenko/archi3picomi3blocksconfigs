@@ -1,0 +1,2 @@
+~/.config/xfce4/terminal/terminalrc
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
