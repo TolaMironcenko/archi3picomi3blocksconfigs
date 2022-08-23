@@ -200,3 +200,5 @@ exec feh --bg-fill desktop_images/dog-image.jpg
 
 gaps inner 5
 gaps outer 2
+
+exec --no-startup-id dunst
